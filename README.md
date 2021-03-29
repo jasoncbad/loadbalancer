@@ -1,5 +1,9 @@
 # loadbalancer.c
 
+A loadbalancer for my httpserver (also on my featured repos), written in C!
+Please see `DESIGN.pdf` for the full documentation. 
+Build/Run instructions are below:
+
 #### Instructions for building "loadbalancer":
 * make: builds the project 
 * make clean: removes built artifacts except for the final executable
