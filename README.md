@@ -1,8 +1,5 @@
 # loadbalancer.c
 
-### Jay Montoya
-### 1742317 | jaanmont @ucsc.edu
-
 #### Instructions for building "loadbalancer":
 * make: builds the project 
 * make clean: removes built artifacts except for the final executable
